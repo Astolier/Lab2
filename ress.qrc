@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/add_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/change_circle_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/content_copy_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/content_cut_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/content_paste_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/format_bold_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/format_list_numbered_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/more_horiz_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/open_in_new_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/print_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/redo_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/save_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/save_as_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/search_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/select_all_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/service_toolbox_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/undo_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/wrap_text_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/note.png</file>
+    </qresource>
+</RCC>
